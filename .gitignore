@@ -9,5 +9,4 @@ build/
 
 .idea/workspace.xml
 
-android/libs/explorer.aar
 ios/Frameworks/Explorer.framework/
