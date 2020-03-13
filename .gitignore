@@ -1,0 +1,13 @@
+.DS_Store
+.dart_tool/
+
+.packages
+.pub/
+
+build/
+
+
+.idea/workspace.xml
+
+android/libs/explorer.aar
+ios/Frameworks/Explorer.framework/
