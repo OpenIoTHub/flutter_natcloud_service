@@ -9,4 +9,4 @@ build/
 
 .idea/workspace.xml
 
-ios/Frameworks/Explorer.framework/
+ios/Frameworks/Explorer.framework/Versions/A/Explorer

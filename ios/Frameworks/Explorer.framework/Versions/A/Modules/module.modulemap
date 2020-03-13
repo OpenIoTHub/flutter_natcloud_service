@@ -1,0 +1,8 @@
+framework module "Explorer" {
+	header "ref.h"
+    header "Explorer.objc.h"
+    header "Universe.objc.h"
+    header "Explorer.h"
+
+    export *
+}
