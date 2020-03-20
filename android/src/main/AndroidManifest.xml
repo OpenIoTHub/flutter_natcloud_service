@@ -9,6 +9,6 @@
         <service
             android:name=".NatCloudExplorerService"
             android:enabled="true"
-            android:exported="true"></service>
+            android:process=":remote"></service>
     </application>
 </manifest>
