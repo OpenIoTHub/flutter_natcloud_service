@@ -28,8 +28,6 @@ public class FlutterNatcloudServicePlugin implements MethodCallHandler {
   @Override
   public void onMethodCall(MethodCall call, Result result) {
     if (call.method.equals("start")) {
-      Intent it=new Intent(activity, NatCloudExplorerService.class);
-      activity.startService(it);
       result.success("success");
     } else {
       result.notImplemented();

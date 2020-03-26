@@ -6,9 +6,5 @@
     <uses-permission android:name="android.permission.STORAGE"/>
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
     <application>
-        <service
-            android:name=".NatCloudExplorerService"
-            android:enabled="true"
-            android:exported="true"></service>
     </application>
 </manifest>
